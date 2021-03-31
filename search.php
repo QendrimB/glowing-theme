@@ -28,3 +28,5 @@ pageBanner(array(
 <?php get_footer();
 
 ?>
+
+search e shtova
