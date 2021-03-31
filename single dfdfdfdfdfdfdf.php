@@ -23,3 +23,5 @@
   get_footer();
 
 ?>
+
+qer karuci
